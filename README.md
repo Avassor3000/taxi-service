@@ -1,9 +1,9 @@
 # 🚖 TAXI-SERVICE 🚖
 ### ___Project description:___
-```A simple web-application that supports authentication, registration and other CRUD operations.```
+```A simple web-application that supports authentication, registration and CRUD operations with all entities```
 
 ## ⚙️ Features:
-* registration like a driver;
+* registration as a driver;
 * authentication like a driver;
 * create/update/remove a manufacturer;
 * create/update/remove a car;
