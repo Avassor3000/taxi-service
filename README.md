@@ -4,7 +4,7 @@
 
 ## ⚙️ Features:
 * registration as a driver;
-* authentication like a driver;
+* authentication as a driver;
 * create/update/remove a manufacturer;
 * create/update/remove a car;
 * create/update a driver;
